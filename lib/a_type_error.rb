@@ -1,3 +1,3 @@
 1 + 1
 
-x =  "#{1}is the loneliest number"
+x =  "#{1.to_s} is the loneliest number"
